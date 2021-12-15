@@ -6,8 +6,8 @@ import lombok.Data;
 public class Yanki {
 
     private String id;
-    private String idDocument;
-    private String idNumber;
+    private String documentType;
+    private String number;
     private String cellphone;
     private String imei;
     private String email;
